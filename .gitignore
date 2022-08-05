@@ -1,0 +1,14 @@
+config.codekit
+.idea
+.codekit-cache
+# Composer
+/vendor/
+node_modules
+build
+.DS_Store
+nbproject
+debug.log
+.netbeans.xml
+plugin-deploy.sh
+.env
+phpcs-report.txt
